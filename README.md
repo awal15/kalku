@@ -1,0 +1,2 @@
+# kalku
+Kalkulator sederhana gan 
